@@ -1,0 +1,83 @@
+[
+    {
+        "question": "Hvilket programmeringspråk brukes i web browseren?",
+        "a": "Java",
+        "b": "C",
+        "c": "Python",
+        "d": "Javascript",
+        "correct": "d"
+    },
+    {
+        "question": "What year was Javascript launched?",
+        "a": "1996",
+        "b": "1995",
+        "c": "1994",
+        "d": "none of the above",
+        "correct": "b"
+    },
+    {
+        "question": "Hva brukes variabler til i Javascript?",
+        "a": "Lagre numre, datoer eller andre verdier",
+        "b": "Gjøre Javascript forvirrende",
+        "c": "Gi deg flashback fra T-matten på videregående",
+        "d": "Ingen av de ovennevnte",
+        "correct": "a"
+    },
+    {
+        "question": "Hvilket av de følgende er IKKE et gyldig Javascript variabel navn?",
+        "a": "2navn",
+        "b": "_for_og_etter_navn",
+        "c": "ForOgEtter",
+        "d": "Ingen av de ovennevnte",
+        "correct": "a"
+    },
+    {
+        "question": "Hvordan skriver du 'Hello World' med bruk av Javascript?",
+        "a": "System.out.printIn('Hello World')",
+        "b": "printIn('Hello World')",
+        "c": "document.write('Hello World')",
+        "d": "response.write('Hello World')",
+        "correct": "c"
+    },
+    {
+        "question": "I hvilket HTML element refererer vi til Javascript?",
+        "a": "<js>",
+        "b": "<scripting>",
+        "c": "<script>",
+        "d": "<javascript>",
+        "correct": "c"
+    },
+    {
+        "question": "Hvor mange primitive verdier finnes det i Javascript?",
+        "a": "7",
+        "b": "9",
+        "c": "Det er ingen primitive verdier i Javascript",
+        "d": "2",
+        "correct": "a"
+    },
+    {
+        "question": "Dette er de mest populare 'frameworks/libraries' i Javascript",
+        "a": "AJAX, Attract, Albatross",
+        "b": "Jolly, Rancher, Gummies",
+        "c": "React, Vue, Angular",
+        "d": "Javascript har ingen 'frameworks' eller 'libraries'",
+        "correct": "c"
+    },
+    {
+        "question": "Hvordan definerer du en variabel i Javascript?",
+        "a": "Skriver 'define varible'",
+        "b": "Ved bruk av var, let og const",
+        "c": "Variabler defineres automatisk",
+        "d": "Ved å skrive navnet til variablen etterfulgt av var",
+        "correct": "b"
+    },
+    {
+        "question": "Hvilket alternativ er en for-loop?",
+        "a": "for (let i = 0; i < 10; i++){}",
+        "b": "while (i < 10){}",
+        "c": "if (i < 10){}",
+        "d": "new Date('2006')",
+        "correct": "a"
+    }
+
+]
