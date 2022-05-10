@@ -8,11 +8,11 @@
         "correct": "d"
     },
     {
-        "question": "What year was Javascript launched?",
+        "question": "Hvilket år ble Javascript lansert?",
         "a": "1996",
         "b": "1995",
         "c": "1994",
-        "d": "none of the above",
+        "d": "Ingen av de ovennevnte",
         "correct": "b"
     },
     {

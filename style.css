@@ -30,6 +30,7 @@
 }
 .last-background-color{
     background-color: white;
+    height: 50vh;
 }
 .btn{
     padding: 2em 0;
@@ -47,7 +48,17 @@
 .footer-wave-2{
     z-index: 1;
 }
-
+.footer{
+    display: flex;
+}
+.footer-box{
+    color: white;
+    width: 33%;
+    margin: 1em;
+}
+.footer-box p{
+    color: white;
+}
 
 
 
