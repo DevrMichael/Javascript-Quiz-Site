@@ -1,4 +1,4 @@
-# Javascript Quiz Website 
+# The Javascript Quiz Website 
 
 TheJavascriptQuiz is a website dedicated to college students, self-taught coders and hobby programmers looking to brush up on their JS skills.
 
